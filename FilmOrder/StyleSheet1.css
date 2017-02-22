@@ -1,0 +1,35 @@
+﻿
+.label {
+    font-family: Verdana;
+    font: normal;
+    color: black;
+    padding:1px 1px 1px 1px;
+}
+table{
+    margin-left: 10px;
+}
+div{
+    padding: 6px 10px 5px 5px;
+}
+td{
+    padding: 10px 5px 10px 5px;
+}
+.button {
+  font-weight:bold;
+  color: white;
+  text-decoration: none;
+  padding: .7em 1.5em calc(.8em + 3px);
+  border-radius: 6px;
+  background: rgb(64,199,129);
+  box-shadow: 0 -5px rgb(53,167,110) inset;
+  transition: 0.2s;
+} 
+.button:hover { background: rgb(53, 167, 110); }
+.button:active {
+  background: rgb(33,147,90);
+  box-shadow: 0 3px rgb(33,147,90) inset;
+}
+#LblFillGaps{
+    font-size: 12px;
+    color: indianred;
+}
