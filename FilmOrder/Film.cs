@@ -9,6 +9,7 @@ namespace FilmOrder
     {
         public string Name { get; set; }
         public double Price { get; set; }
+        public string FilmStr { get { return this.ToString(); } }
         public Film(string _name, double _price)
         {
             Name = _name;

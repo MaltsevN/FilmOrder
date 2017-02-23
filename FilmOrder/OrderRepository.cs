@@ -15,12 +15,12 @@ namespace FilmOrder
             return repository;
         }
 
-        public IEnumerable<FilmOrder> GetAllResponses()
+        public IEnumerable<FilmOrder> GetAllOrders()
         {
             return orders;
         }
 
-        public void AddResponse(FilmOrder order)
+        public void AddOrder(FilmOrder order)
         {
             orders.Add(order);
         }

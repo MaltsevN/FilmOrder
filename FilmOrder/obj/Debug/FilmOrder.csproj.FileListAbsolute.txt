@@ -31,3 +31,36 @@ C:\Users\svezho\Documents\Visual Studio 2015\Projects\FilmOrder\FilmOrder\bin\Mi
 C:\Users\svezho\Documents\Visual Studio 2015\Projects\FilmOrder\FilmOrder\obj\Debug\FilmOrder.csprojResolveAssemblyReference.cache
 C:\Users\svezho\Documents\Visual Studio 2015\Projects\FilmOrder\FilmOrder\obj\Debug\FilmOrder.dll
 C:\Users\svezho\Documents\Visual Studio 2015\Projects\FilmOrder\FilmOrder\obj\Debug\FilmOrder.pdb
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\ApplicationInsights.config
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\roslyn\csc.exe
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\roslyn\System.Collections.Immutable.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\roslyn\System.Reflection.Metadata.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\roslyn\vbc.exe
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\roslyn\VBCSCompiler.exe
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\roslyn\VBCSCompiler.exe.config
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\FilmOrder.dll.config
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\FilmOrder.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\FilmOrder.pdb
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.AI.DependencyCollector.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.AI.Web.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.AI.WindowsServer.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.ApplicationInsights.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.AI.DependencyCollector.xml
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.AI.Web.xml
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.AI.WindowsServer.xml
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.ApplicationInsights.xml
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\obj\Debug\FilmOrder.csprojResolveAssemblyReference.cache
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\obj\Debug\FilmOrder.dll
+D:\Никита\FilmOrder\FilmOrder\FilmOrder\obj\Debug\FilmOrder.pdb

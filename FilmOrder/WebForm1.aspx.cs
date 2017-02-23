@@ -14,30 +14,32 @@ namespace FilmOrder
         {
             if (!IsPostBack)
             {
-                ddList.Items.Clear();
-                ddList.Items.Add("Choose film...");
-
                 List<Film> films = new List<Film>();
 
                 films.Add(new Film("Toy Story", 200));
                 films.Add(new Film("Nemo", 250));
                 films.Add(new Film("Alladin", 300));
                 films.Add(new Film("Cinderella", 350));
-                foreach (var item in films)
-                {
-                    ddList.Items.Add(item.ToString());
-                }
+                
+                ddList.DataSource = films;
+                ddList.DataTextField = "FilmStr";
+                ddList.DataValueField = "Price";
+
+                ddList.DataBind();
+
+                ddList.Items.Insert(0, "Choose film...");
+
             }
         }
         
 
         protected void BtnCountPrice_Click(object sender, EventArgs e)
         {
+            LblFillGaps.Visible = false;
             if (TxtBoxName.Text == String.Empty || ddList.SelectedIndex == 0
                 || TxtBoxDays.Text == String.Empty)
             {
                 LblFillGaps.Visible = true;
-                TxtBoxDays.Text = ddList.SelectedIndex.ToString();
             }
             else
             {
@@ -50,7 +52,7 @@ namespace FilmOrder
                 LblDays.Visible = true;
 
                 Label4.Visible = true;
-                LblPrice.Text = (Double.Parse(TxtBoxDays.Text) * 400).ToString() + " UAH";
+                LblPrice.Text = (Double.Parse(TxtBoxDays.Text) * Double.Parse(ddList.SelectedItem.Value)).ToString() + " UAH";
                 LblPrice.Visible = true;
 
                 //BtnMakeOrder.Visible = true;
